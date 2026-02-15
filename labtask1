@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+ 
+<html>
+ 
+<head>
+    <title>
+        Online Admission Form
+    </title>
+</head>
+<body>
+    <center>
+    <h1>
+        Online Admission Form
+ 
+    </h1>
+</center>
+    
+<form>
+    <table>
+ 
+ 
+   <tr>
+    <td>
+First Name:
+    </td>
+<td>
+<input type="text">
+</td>
+   </tr>
+ 
+   <tr>  
+    
+   
+<td> Last Name:</td>
+<td><input type="text"> </td>
+   </tr>
+<tr> <td>
+Email:
+</td>
+<td> <input type="email"> </td>
+ 
+</tr>
+ 
+<tr>
+<td> Gender:</td>
+<td> <input type="Male"></td>
+<td> <input type="radio"></td>
+<td> <input type="Female"></td>
+<td> <input type="radio"></td>
+</tr>
+<tr>
+       <tr>
+    <td>
+Course Selection:
+    </td>
+<td>
+<input type="text">
+</td>
+   </tr>
+ 
+   <tr>  
+      <tr>
+    <td>
+File Upload:
+    </td>
+<td>
+<input type="File">
+</td>
+   </tr>
+ 
+   <tr>
+<td> DOB: </td>
+<td> <input type="date"> </td>
+</tr>
+ 
+ 
+<tr>
+<td>
+<input type="submit">
+</td>
+</tr>
+ 
+ </table>
+</form>
+ 
+</body>
+ 
+</html>
